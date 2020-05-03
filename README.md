@@ -1,10 +1,10 @@
 ## :rocket: :rocket: Template default para projetos ReactJS com TypeScript
 
-# Tecnologias
+### Tecnologias
+ReactJS Typescript Prettier Eslint
 
-ReactJS Typescript Prettier Eslint :purple_heart: :purple_heart: :purple_heart:
-
-<img src="img/template.gif" alt="drawing" width="700" height="300"/>
+## Estrutura do projeto
+<img src="img/structure.png" alt="drawing" width="500" />
 
 ## :pencil2: Development setup
 
