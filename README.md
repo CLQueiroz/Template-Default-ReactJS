@@ -4,7 +4,7 @@
 ReactJS Typescript Prettier Eslint
 
 ## Estrutura do projeto
-<img src="img/structure.png" alt="drawing" width="500" />
+<img src="img/structure.gif" alt="drawing" width="500" />
 
 ## :pencil2: Development setup
 
