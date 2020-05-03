@@ -1,6 +1,4 @@
-# Template default para projetos ReactJS com TypeScript
-
-## :rocket: :rocket: Projeto simples para treinar
+## :rocket: :rocket: Template default para projetos ReactJS com TypeScript
 
 # Tecnologias
 
