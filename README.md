@@ -1,7 +1,7 @@
-## :rocket: :rocket: Template default para projetos ReactJS com TypeScript
+##  Template default para projetos ReactJS com TypeScript
 
 ###  Tecnologias
-ReactJS Typescript Prettier Eslint
+:rocket: ReactJS Typescript Prettier Eslint
 
 ## Estrutura do projeto
   <img src="img/structure.gif" alt="drawing" width="500" />
