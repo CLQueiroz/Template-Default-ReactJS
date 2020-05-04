@@ -17,6 +17,6 @@ npm install or yarn
 npm start or yarn start
 ```
 
-## Desenvolvido por:
+## 👨🏼‍💻 Desenvolvido por
 
-👨🏼‍💻  Caique Onisto Queiroz
+- [Caique Queiroz](https://github.com/clqueiroz)
