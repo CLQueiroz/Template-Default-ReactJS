@@ -1,14 +1,17 @@
 ## :rocket: :rocket: Template default para projetos ReactJS com TypeScript
 
-### Tecnologias
+###  Tecnologias
 ReactJS Typescript Prettier Eslint
 
 ## Estrutura do projeto
-<h1 align="center">
   <img src="img/structure.gif" alt="drawing" width="500" />
-</h1>
-## :pencil2: Development setup
 
+## ✋🏻 Pré-requisitos
+
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/pt-BR/docs/install)
+
+## :pencil2: Development setup
 ```sh
 npm install or yarn
 npm start or yarn start
@@ -16,4 +19,4 @@ npm start or yarn start
 
 ## Desenvolvido por:
 
-:coffee: :computer: Caique Onisto Queiroz
+👨🏼‍💻  Caique Onisto Queiroz
