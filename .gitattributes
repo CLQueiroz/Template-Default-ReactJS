@@ -1,2 +1,2 @@
-.html linguist-vendored=false
-.typescript linguist-detectable=true
+*.html linguist-vendored=false
+*.typescript linguist-detectable=true
